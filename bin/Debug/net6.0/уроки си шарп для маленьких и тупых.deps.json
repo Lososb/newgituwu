@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "уроки си шарп для маленьких и тупых/1.0.0": {
+        "runtime": {
+          "уроки си шарп для маленьких и тупых.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "уроки си шарп для маленьких и тупых/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

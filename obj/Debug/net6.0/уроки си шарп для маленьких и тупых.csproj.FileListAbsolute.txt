@@ -1,0 +1,15 @@
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\bin\Debug\net6.0\уроки си шарп для маленьких и тупых.exe
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\bin\Debug\net6.0\уроки си шарп для маленьких и тупых.deps.json
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\bin\Debug\net6.0\уроки си шарп для маленьких и тупых.runtimeconfig.json
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\bin\Debug\net6.0\уроки си шарп для маленьких и тупых.dll
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\bin\Debug\net6.0\уроки си шарп для маленьких и тупых.pdb
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.csproj.AssemblyReference.cache
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.AssemblyInfoInputs.cache
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.AssemblyInfo.cs
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.csproj.CoreCompileInputs.cache
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.dll
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\refint\уроки си шарп для маленьких и тупых.dll
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.pdb
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\уроки си шарп для маленьких и тупых.genruntimeconfig.cache
+C:\Users\mugud\source\repos\уроки си шарп для маленьких и тупых\obj\Debug\net6.0\ref\уроки си шарп для маленьких и тупых.dll

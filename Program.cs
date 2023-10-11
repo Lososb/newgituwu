@@ -87,6 +87,7 @@ namespace lesson1
 
             int newnuber = 10;
             Console.WriteLine(newnuber);
+            int aaaa = 1;
         }
 
             
